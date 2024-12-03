@@ -16,8 +16,6 @@ header {
     width: 100%;
 
     background-color: #adc0ff;
-
-    padding: 15px;
 }
 
 h1 {
@@ -34,8 +32,10 @@ h1 {
 .view_main img {
     width: 800px;
     height: 500px;
-    margin-left: 25%;
+
+    margin: 0 17%;
 }
+
 
 .view_main h2 {
 
@@ -55,6 +55,7 @@ h1 {
     font-style: normal;
 
     font-size: 24px;
+    padding: 15px;
 }
 
 a {

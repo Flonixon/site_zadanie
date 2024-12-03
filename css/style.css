@@ -23,14 +23,12 @@ h1 {
 
 main {
     margin-top: 50px;
-
     width: 100%;
-
     background-color: #c3c2ff;
 }
  
 table {
-    margin-left: 21.5%;
+    margin: 0 auto;
     border-spacing: 25px;
 }
 
